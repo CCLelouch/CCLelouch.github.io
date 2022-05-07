@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cclelouch.github.io</id>
     <title>Gridea</title>
-    <updated>2022-05-07T01:17:00.608Z</updated>
+    <updated>2022-05-07T01:32:15.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cclelouch.github.io"/>
     <link rel="self" href="https://cclelouch.github.io/atom.xml"/>
@@ -11,12 +11,12 @@
     <icon>https://cclelouch.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[我的第一次]]></title>
+        <title type="html"><![CDATA[好耶，新的静态网页]]></title>
         <id>https://cclelouch.github.io/post/wo-de-di-yi-ci/</id>
         <link href="https://cclelouch.github.io/post/wo-de-di-yi-ci/">
         </link>
         <updated>2022-05-07T01:12:38.000Z</updated>
-        <content type="html"><![CDATA[<p>顶顶顶顶顶</p>
+        <content type="html"><![CDATA[<p>尝试把老的静态网站给更新一下，然后发现不小心把之前旧的网站给覆盖了，难受呀。</p>
 ]]></content>
     </entry>
 </feed>
