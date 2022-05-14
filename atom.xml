@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cclelouch.github.io</id>
     <title>Gridea</title>
-    <updated>2022-05-07T01:33:38.322Z</updated>
+    <updated>2022-05-14T04:59:54.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cclelouch.github.io"/>
     <link rel="self" href="https://cclelouch.github.io/atom.xml"/>
@@ -11,13 +11,43 @@
     <icon>https://cclelouch.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
+        <title type="html"><![CDATA[【读书】The Little Prince]]></title>
+        <id>https://cclelouch.github.io/post/du-shu-the-little-prince/</id>
+        <link href="https://cclelouch.github.io/post/du-shu-the-little-prince/">
+        </link>
+        <updated>2022-02-15T04:37:45.000Z</updated>
+        <content type="html"><![CDATA[<pre><code> &quot;To me, you are still nothing more than a little boy who is just like a hundred thousand other little boys. And I have no need of you. And you, on your part, have no need of me. To you, I am nothing more than a fox like a hundred thousand other foxes. But if you tame me, then we shall need each other. To me, you will be unique in all the world. To you, I shall be unique in all the world...&quot;
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【经济】微观经济]]></title>
+        <id>https://cclelouch.github.io/post/jing-ji-wei-guan-jing-ji/</id>
+        <link href="https://cclelouch.github.io/post/jing-ji-wei-guan-jing-ji/">
+        </link>
+        <updated>2021-12-31T04:37:09.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>    微观经济（Microeconomic）是指个量经济活动，即单个经济单位的经济活动。是指个别企业、经营单位及其经济活动，如个别企业的生产、供销、个别交换的价格等。微观经济的运行，以价格和市场信号为诱导，通过竞争而自行调整与平衡；而宏观经济的运行，有许多市场机制的作用不能达到的领域，需要国家从社会的全局利益出发，运用各种手段，进行宏观调节和控制。
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【经济】宏观经济]]></title>
+        <id>https://cclelouch.github.io/post/jing-ji-hong-guan-jing-ji/</id>
+        <link href="https://cclelouch.github.io/post/jing-ji-hong-guan-jing-ji/">
+        </link>
+        <updated>2021-11-26T04:35:47.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>    宏观经济学（英文名称：Macroeconomics）是使用国民收入、经济整体的投资和消费等总体性的统计概念来分析经济运行规律的一个经济学领域。宏观经济学是相对于微观经济学而言的。
+</code></pre>
+<p>宏观经济学本质上是修正主义性质的，集合了保守哲学观念和激进政策设计。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[好耶，新的静态网页]]></title>
         <id>https://cclelouch.github.io/post/wo-de-di-yi-ci/</id>
         <link href="https://cclelouch.github.io/post/wo-de-di-yi-ci/">
         </link>
-        <updated>2022-05-07T01:12:38.000Z</updated>
-        <content type="html"><![CDATA[<p>尝试把老的静态网站给更新一下，然后发现不小心把之前旧的网站给覆盖了，难受呀。<br>
-软件</p>
+        <updated>2021-01-06T01:12:38.000Z</updated>
+        <content type="html"><![CDATA[<p>尝试把老的静态网站给更新一下，然后发现不小心把之前旧的网站给覆盖了，难受呀。</p>
 ]]></content>
     </entry>
 </feed>
